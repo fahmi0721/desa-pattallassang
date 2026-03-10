@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "db_pattallassang";
+$user = "pattallassang";
+$pass = "9B8M+AG02eV|";
+$db   = "pattallassang";
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);
 
